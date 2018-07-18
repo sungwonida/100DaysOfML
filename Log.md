@@ -34,3 +34,24 @@ Here are what I've gone through so far
 **Thoughts** : It looks pretty promising. But when it comes to further investments, I have to first learn way playing around it with no hurdles. Such as I/O parts of the framework.
 
 **Link of Work** : [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
+
+## Day 4 : Jul 10, 2018
+
+**Today's Progress** : Had my own seminar on Machine Learning Fundamental for the team members.
+
+**Thoughts** : That was the 3rd series on Machine Learning seminar. (1. Deep Learning for Computer Vision, 2. Machine Learning Fundamental, 3. Machine Learning Fundamental (cont.)). I think these series are enough for the team members in elevating their mind to this field. The missing parts might be discovered by the team members themselves.
+
+**Link of Work** :  
+[Seminar:Computer Vision](https://docs.google.com/presentation/d/1DIe8pH1H1zohX4l4D5ExGoErPxqlfjdazmRXmmXj51Q/edit?usp=sharing)  
+[Seminar:Machine Learning Fundamental](https://docs.google.com/presentation/d/1kZGnigyeN1H7z-ohX67aTkAk85CL_qaU6TNhd5VC_a8/edit?usp=sharing)  
+I couldn't cite the sites, the lecture, and the papers enough, so please let me know if there's any possible problem. I'll make a change on that.
+
+## Day 5 : Jul 11, 2018
+
+**Today's Progress** : Took some RL lectures
+
+**Thoughts** : Just had an overview. I feel I should dig into those soon.
+
+**Link of Work** :  
+[RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&t=1s)  
+[RL Course by David Silver - Lecture 2: Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ)
