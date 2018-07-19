@@ -11,7 +11,7 @@ Here are what I've gone through so far
 * [CS231n Lecture 6 - Training Neural Networks I](https://www.youtube.com/watch?v=wEoyxE0GP2M&index=6&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 
-**Thoughts** : Copying whole words in lecture video to my brain and just speak that as is may the best method. (if I could)
+**Thoughts** : Copying whole words in the lecture video to my brain and just speak of that as is may be the best method. (if I could)
 
 ## Day 1 : Jul 7, 2018
 
@@ -29,9 +29,9 @@ Here are what I've gone through so far
 
 ## Day 3 : Jul 9, 2018
 
-**Today's Progress** : Tried tf-openpose with team members, and had conversation about it. 
+**Today's Progress** : Tried tf-pose-estimation with the team members, and had some conversation on it. 
 
-**Thoughts** : It looks pretty promising. But when it comes to further investments, I have to first learn way playing around it with no hurdles. Such as I/O parts of the framework.
+**Thoughts** : It looks pretty promising. But when it comes to further investments, I have to first learn the way playing around it with no hurdles. Such as I/O parts of the framework.
 
 **Link of Work** : [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
 
@@ -39,7 +39,7 @@ Here are what I've gone through so far
 
 **Today's Progress** : Had my own seminar on Machine Learning Fundamental for the team members.
 
-**Thoughts** : That was the 3rd series on Machine Learning seminar. (1. Deep Learning for Computer Vision, 2. Machine Learning Fundamental, 3. Machine Learning Fundamental (cont.)). I think these series are enough for the team members in elevating their mind to this field. The missing parts might be discovered by the team members themselves.
+**Thoughts** : That was the 4th series on Machine Learning seminar. (0. Machine Learning Overview, 1. Deep Learning for Computer Vision, 2. Machine Learning Fundamental, 3. Machine Learning Fundamental (cont.)). I think these series are enough for the team members in elevating their mind to this field. The missing parts might be discovered by the team members themselves.
 
 **Link of Work** :  
 [Seminar:Computer Vision](https://docs.google.com/presentation/d/1DIe8pH1H1zohX4l4D5ExGoErPxqlfjdazmRXmmXj51Q/edit?usp=sharing)  
@@ -48,10 +48,66 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 
 ## Day 5 : Jul 11, 2018
 
-**Today's Progress** : Took some RL lectures
+**Today's Progress** : Took some RL lectures.
 
 **Thoughts** : Just had an overview. I feel I should dig into those soon.
 
 **Link of Work** :  
 [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&t=1s)  
 [RL Course by David Silver - Lecture 2: Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ)
+
+## Day 6 : Jul 12, 2018
+
+**Today's Progress** : Watched some RL articles and videos.
+
+**Thoughts** : RL is somewhat doens't have dependencies with current project so it can stand parallel. Rather, RL could help one of the other internal projects greatly, I wish.
+
+## Day 7 : Jul 13, 2018
+
+**Today's Progress** : Watched some RL videos.
+
+**Thoughts** : To cover the whole fundamental of RL would take long time. MDP, policy iteration, value iteration, Q-learning, etc.
+
+## Day 8 : Jul 14, 2018
+
+**Today's Progress** : Just watched some RL videos.
+
+**Thoughts** : Got wet some more.
+
+## Day 9 : Jul 15, 2018
+
+**Today's Progress** : Watched some RL videos.
+
+**Thoughts** : More and more.
+
+## Day 10 : Jul 16, 2018
+
+**Today's Progress** : I went further into Realtime Multi-Person Pose Estimation paper, while digging into one of the implemented code simultaneously.
+
+**Thoughts** : 
+
+**Link of Work** :  
+[Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1611.08050v2.pdf)
+![Network Architecture](https://github.com/ZheC/Multi-Person-Pose-Estimation/raw/master/readme/arch.png)
+
+## Day 11 : Jul 17, 2018
+
+**Today's Progress** : Compared some of the implementation of the pose estimation.
+
+**Thoughts** : I feel the keras implementation is rather clear and robust than the tensorflow implementation.
+
+**Link of Work** :  
+[Tensorflow version](https://github.com/ildoonet/tf-pose-estimation)  
+[Keras version](https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation)
+
+## Day 12 : Jul 18, 2018
+
+**Today's Progress** : Stuck to the pose estimation.
+
+**Thoughts** : IMO, the author of tf-pose-estimation seems like a geek. tf-pose-estimation has a lot of multi-gpu codes which embarrass me, making it hard to figure out what a code block is doing. Also it has a lot of hardcoded variables which makes it less flexible.
+
+## Day 13 : Jul 19, 2018
+
+**Today's Progress** : Read the paper again and played around the code.
+
+**Thoughts** : After I grasp the entire pipeline I wondered how the architecture is contructed with tf or keras code. Especially the part about the 6-staged network and about the initialization of the confidence map and the PAFs. Fortunately, today's team meeting has given the answers to those my questions.
