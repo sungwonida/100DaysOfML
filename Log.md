@@ -111,3 +111,17 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Today's Progress** : Read the paper again and played around the code.
 
 **Thoughts** : After I grasp the entire pipeline I wondered how the architecture is contructed with tf or keras code. Especially the part about the 6-staged network and about the initialization of the confidence map and the PAFs. Fortunately, today's team meeting has given the answers to those my questions.
+
+## Day 14 : Jul 20, 2018
+
+**Today's Progress** : I had my 4th Seminar about CNN architectures.
+
+**Thoughts** : Even after finishing the online courses, people can easily overlook the basic convolution operations and the propagation through conv layers. Of course, we won't invent the wheel but, knowing the basics can give powers on making breakthrough later.
+
+**Link of Work** : [Seminar: Base Model](https://docs.google.com/presentation/d/14G5X1aNWSlpFz8cVQj-s87A26sTpvWIXLplMka6Gr_g/edit?usp=sharing)
+
+## Day 15 : Jul 21, 2018
+
+**Today's Progress** : I refined one of my Jupyter notebooks which handles the list of young people I should shepherd in the church. That mainly uses pandas and matplotlib to categorize and to visualize the statistics of the categories.
+
+**Thoughts** : Visualing is always fun!
