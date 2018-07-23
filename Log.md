@@ -124,4 +124,14 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 
 **Today's Progress** : I refined one of my Jupyter notebooks which handles the list of young people I should shepherd in the church. That mainly uses pandas and matplotlib to categorize and to visualize the statistics of the categories.
 
-**Thoughts** : Visualing is always fun!
+**Thoughts** : Visualizing is always fun!
+
+## Day 16 : Jul 22, 2018
+
+**Today's Progress** : Took an easy-explaned LSTM lecture
+
+**Thoughts** : Now it's clear why LSTM should come that supplements the vanilla RNN.
+
+**Link of Work** :  
+[Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)  
+[CS231n Lecture 10 | Recurrent Neural Networks](https://youtu.be/6niqTuYFZLQ)
