@@ -145,3 +145,14 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Thoughs** : Label4CV is what I have been having in mind through time. I think that would be fun, and also practical.
 
 **Link of Work** : https://github.com/sungwonida/label4cv
+
+## Day 18 : Jul 24, 2018
+
+**Today's Progress** : Took a RL video, and read about deploying.
+
+**Thoughts** : Deploying models on the edge devices is really a matter. Should have the optimal trade-off among the accuracy and the speed. Maybe some of the solutions(frameworks) that would captivate me are Tensorflow Lite and Core ML.
+
+**Link of Work** :  
+[MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://youtu.be/QDzM8r3WgBw)  
+[Machine Learning and Mobile: Deploying Models on The Edge](https://blog.algorithmia.com/machine-learning-and-mobile-deploying-models-on-the-edge/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180723+ai+nl&mkt_tok=eyJpIjoiTkdJd1lXVXdPVE16WXpWaiIsInQiOiJ3MWRLT3M2KzNPUEdLSyt3UGlleEx0MDhZTmVzXC9ZNjdcLzl6RVlQV0UwallveVA5Rkl0SlF0ZUYwNTBWQXJQZGpxMEhJVE94a0h1Mmt5Nkl2d3hvMGF1YWRDYjk5UzZjMmhLRXN2R3JZb3M5K2RtR2N4M1RRalwvZjFTbXJ6TEEyWiJ9)
+
