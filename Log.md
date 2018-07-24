@@ -135,3 +135,13 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Link of Work** :  
 [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)  
 [CS231n Lecture 10 | Recurrent Neural Networks](https://youtu.be/6niqTuYFZLQ)
+
+## Day 17 : Jul 23, 2018
+
+**Today's Progress** :  
+1) Dug deep into Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields paper.  
+2) I just made a plan to build up a side project, which is named Label4CV. It has only its architecture yet.
+
+**Thoughs** : Label4CV is what I have been having in mind through time. I think that would be fun, and also practical.
+
+**Link of Work** : https://github.com/sungwonida/label4cv
