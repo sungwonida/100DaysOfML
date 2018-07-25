@@ -156,3 +156,10 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 [MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://youtu.be/QDzM8r3WgBw)  
 [Machine Learning and Mobile: Deploying Models on The Edge](https://blog.algorithmia.com/machine-learning-and-mobile-deploying-models-on-the-edge/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180723+ai+nl&mkt_tok=eyJpIjoiTkdJd1lXVXdPVE16WXpWaiIsInQiOiJ3MWRLT3M2KzNPUEdLSyt3UGlleEx0MDhZTmVzXC9ZNjdcLzl6RVlQV0UwallveVA5Rkl0SlF0ZUYwNTBWQXJQZGpxMEhJVE94a0h1Mmt5Nkl2d3hvMGF1YWRDYjk5UzZjMmhLRXN2R3JZb3M5K2RtR2N4M1RRalwvZjFTbXJ6TEEyWiJ9)
 
+## Day 19 : Jul 25, 2018
+
+**Today's Progress** : Reading through a paper, "DenseCap: Fully Convolutional Localization Networks for Dense Captioning". No hands-on today.
+
+**Thoughts** : I need some nice architecture being able to analyse the behavior from video. I know there are some papers for that. Start from DenseCap paper, I'll read others through.
+
+**Link of Work** : https://arxiv.org/pdf/1511.07571v1.pdf
