@@ -163,3 +163,9 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Thoughts** : I need some nice architecture being able to analyse the behavior from video. I know there are some papers for that. Start from DenseCap paper, I'll read others through.
 
 **Link of Work** : https://arxiv.org/pdf/1511.07571v1.pdf
+
+## Day 20 : Jul 26, 2018
+
+**Today's Progress** : Kept reading DenseCap. Attention models emerged to be one of the next learning items. And took some lectures on basic object detection from deeplearning.ai
+
+**Thoughts** : While have been focused on relatively high level applications these days, suddenly, came to examine myself by thinking of the basics. Am I good enough now? If not, back to basic. They should not be overlooked. 
