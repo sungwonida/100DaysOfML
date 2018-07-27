@@ -169,3 +169,11 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Today's Progress** : Kept reading DenseCap. Attention models emerged to be one of the next learning items. And took some lectures on basic object detection from deeplearning.ai
 
 **Thoughts** : While have been focused on relatively high level applications these days, suddenly, came to examine myself by thinking of the basics. Am I good enough now? If not, back to basic. They should not be overlooked. 
+
+## Day 21 : Jul 27, 2018
+
+**Today's Progress** : Test run of the pose estimation on GTX1070. Comparing with the training on the CPU, now it is running with x50 speed! (On the basis of ETA)
+
+**Thoughts** : When considering of my future own machine for deep learning, the selective range has been much larger! Because the only choice of mine was GTX1080ti. I'm pretty happy with GTX1070 now.
+
+**Link of Work** : https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation
