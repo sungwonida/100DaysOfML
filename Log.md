@@ -177,3 +177,9 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Thoughts** : When considering of my future own machine for deep learning, the selective range has been much larger! Because the only choice of mine was GTX1080ti. I'm pretty happy with GTX1070 now.
 
 **Link of Work** : https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation
+
+## Day 22 : Jul 28, 2018
+
+**Today's Progress** : Took lectures on RNN from deeplearning.ai
+
+**Thoughts** : Prof. Andrew Ng is indeed top in his way of solving the story. I'm getting a ton.
