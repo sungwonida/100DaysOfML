@@ -183,3 +183,9 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Today's Progress** : Took lectures on RNN from deeplearning.ai
 
 **Thoughts** : Prof. Andrew Ng is indeed top in his way of solving the story. I'm getting a ton.
+
+## Day 23 : Jul 29, 2018
+
+**Today's Progress** : Took more lessons on various types of RNNs and some of word embeddings.
+
+**Thoughts** : Um.. actually (I think) I need Attention Models. Maybe I can fastforward to it for now. (deeplearning.ai)
