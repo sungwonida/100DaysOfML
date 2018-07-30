@@ -189,3 +189,12 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Today's Progress** : Took more lessons on various types of RNNs and some of word embeddings.
 
 **Thoughts** : Um.. actually (I think) I need Attention Models. Maybe I can fastforward to it for now. (deeplearning.ai)
+
+## Day 24 : Jul 30, 2018
+
+**Today's Progress** : Stuck with Keras callbacks for a while especially on ModelCheckpoint. Then engineered on it to work as I thought. Also I needed to get some basics on COCO APIs. So, I went throught the tutorial they provide.
+
+**Thoughts** : At the very first, ModelCheckpoint seemed weird in its behavior. But I noticed soon that I misunderstood the arguments ModelCheckpoint get. 'mode' overwrites 'save_best_only'.
+
+**Link of Work** :  
+https://github.com/cocodataset/cocoapi
