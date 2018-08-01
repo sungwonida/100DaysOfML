@@ -198,3 +198,11 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 
 **Link of Work** :  
 https://github.com/cocodataset/cocoapi
+
+## Day 25 : Jul 31, 2018
+
+**Today's Progress** : Made a custom Keras callback based on ModelCheckpoint to add additional function. (max_to_keep)
+
+**Thoughts** : I've been awaring of max_to_keep that of tf.train.Saver. But I surprised at Keras's lack of that option.
+
+**Link of Work** : https://github.com/sungwonida/keras_custom_callbacks
