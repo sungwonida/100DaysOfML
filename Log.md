@@ -206,3 +206,9 @@ https://github.com/cocodataset/cocoapi
 **Thoughts** : I've been awaring of max_to_keep that of tf.train.Saver. But I surprised at Keras's lack of that option.
 
 **Link of Work** : https://github.com/sungwonida/keras_custom_callbacks
+
+## Day 26 : Aug 1, 2018
+
+**Today's Progress** : Played around Keras Callbacks. With adding some LambdaCallback and custom callbacks I could able to see some logs gives me confidence that the model load/save works properly.
+
+**Thoughts** : Keras Callbacks is interesting! Though I should get wet more on Tensorflow itself to be able to implement more useful custom callbacks.
