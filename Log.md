@@ -196,8 +196,7 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 
 **Thoughts** : At the very first, ModelCheckpoint seemed weird in its behavior. But I noticed soon that I misunderstood the arguments ModelCheckpoint get. 'mode' overwrites 'save_best_only'.
 
-**Link of Work** :  
-https://github.com/cocodataset/cocoapi
+**Link of Work** : https://github.com/cocodataset/cocoapi
 
 ## Day 25 : Jul 31, 2018
 
@@ -209,6 +208,6 @@ https://github.com/cocodataset/cocoapi
 
 ## Day 26 : Aug 1, 2018
 
-**Today's Progress** : Played around Keras Callbacks. With adding some LambdaCallback and custom callbacks I could able to see some logs gives me confidence that the model load/save works properly.
+**Today's Progress** : Played around Keras Callbacks. With adding some LambdaCallback and custom callbacks I could able to see some logs give me confidence that the model load/save works properly.
 
 **Thoughts** : Keras Callbacks is interesting! Though I should get wet more on Tensorflow itself to be able to implement more useful custom callbacks.
