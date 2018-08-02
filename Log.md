@@ -211,3 +211,11 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Today's Progress** : Played around Keras Callbacks. With adding some LambdaCallback and custom callbacks I could able to see some logs give me confidence that the model load/save works properly.
 
 **Thoughts** : Keras Callbacks is interesting! Though I should get wet more on Tensorflow itself to be able to implement more useful custom callbacks.
+
+## Day 27 : Aug 2, 2018
+
+**Today's Progress** : Picked up and read through a paper that tells me about activity recognition from video. 
+
+**Thoughts** : Many-to-one RNN model is what I've been searching for activity recognition.
+
+**Link of Works** : http://arxiv.org/abs/1703.10667v1
