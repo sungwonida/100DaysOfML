@@ -219,3 +219,11 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Thoughts** : Many-to-one RNN model is what I've been searching for activity recognition.
 
 **Link of Works** : http://arxiv.org/abs/1703.10667v1
+
+## Day 28 : Aug 3, 2018
+
+**Today's Progress** : Read through TS-LSTM paper and quickly tried one of the implementations of the base module, two stream convnet, from github.
+
+**Thoughts** : Even the few that existed were not implemented by Tensorflow or Keras. The authors tend to code in Torch7 or PyTorch which I'm not familier yet.
+
+**Link of Works** : https://github.com/jeffreyhuang1/two-stream-action-recognition
