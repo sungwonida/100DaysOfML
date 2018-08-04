@@ -227,3 +227,11 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Thoughts** : Even the few that existed were not implemented by Tensorflow or Keras. The authors tend to code in Torch7 or PyTorch which I'm not familier yet.
 
 **Link of Works** : https://github.com/jeffreyhuang1/two-stream-action-recognition
+
+## Day 29 : Aug 4, 2018
+
+**Today's Progress** : LSTMs became clear in theory.
+
+**Thoughts** : Need coding practice.
+
+**Link of Works** : http://colah.github.io/posts/2015-08-Understanding-LSTMs/
