@@ -235,3 +235,11 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Thoughts** : Need coding practice.
 
 **Link of Works** : http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+## Day 30 : Aug 5, 2018
+
+**Today's Progress** : Played around Karpathy's raw implementation of RNN. 
+
+**Thoughts** : I want to be able to replicate this code line by line.
+
+**Link of Works** : https://gist.github.com/karpathy/d4dee566867f8291f086
