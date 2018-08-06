@@ -243,3 +243,9 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Thoughts** : I want to be able to replicate this code line by line.
 
 **Link of Works** : https://gist.github.com/karpathy/d4dee566867f8291f086
+
+## Day 31 : Aug 6, 2018
+
+**Today's Progress** : Investigated Karpathy's RNN code line by line.
+
+**Thoughs** : Should dig into more cases other than 'hello'.
