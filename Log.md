@@ -249,3 +249,14 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Today's Progress** : Investigated Karpathy's RNN code line by line.
 
 **Thoughs** : Should dig into more cases other than 'hello'.
+
+
+## Day 32 : Aug 7, 2018
+
+**Today's Progress** : Coding practice by implementating the CNN in Tensorflow and Keras.
+
+**Thoughts** : I should be balanced in between theory and coding skill. Keras functional API seems more appealing to me than the other one.
+
+**Link of Works** :  
+http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/  
+http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
