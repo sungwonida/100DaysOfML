@@ -260,3 +260,11 @@ I couldn't cite the sites, the lecture, and the papers enough, so please let me 
 **Link of Works** :  
 http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/  
 http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
+
+## Day 33 : Aug 8, 2018
+
+**Today's Progress** : Coding practice by following the tutorial on the LSTMs in Tensorflow.
+
+**Thoughts** : It's fun, but a little bit confusing to follow the implementation. Had spent much time on looking into the data preparation part.
+
+**Link of Works** : http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/
