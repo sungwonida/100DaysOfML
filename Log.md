@@ -268,3 +268,14 @@ http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
 **Thoughts** : It's fun, but a little bit confusing to follow the implementation. Had spent much time on looking into the data preparation part.
 
 **Link of Works** : http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/
+
+## Day 34 : Aug 9, 2018
+
+**Today's Progress** : Worked hard on preparing the seminar of mine which will be held tomorrow.
+
+**Thoughts** : Action recognitions using deep learning sort are really interesting.
+
+**Link of Works** :  
+[Two-strram Convolutional Networks for Action Recognition](http://arxiv.org/abs/1406.2199v2)  
+[Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](http://arxiv.org/abs/1608.00859v1)  
+[TS-LSTM and Temporal-Inception: Exploiting Spatiotemporal Dynamics for Activity Recognition](http://arxiv.org/abs/1703.10667v1)
