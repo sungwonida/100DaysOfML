@@ -279,3 +279,11 @@ http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
 [Two-strram Convolutional Networks for Action Recognition](http://arxiv.org/abs/1406.2199v2)  
 [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](http://arxiv.org/abs/1608.00859v1)  
 [TS-LSTM and Temporal-Inception: Exploiting Spatiotemporal Dynamics for Activity Recognition](http://arxiv.org/abs/1703.10667v1)
+
+## Day 35 : Aug 10, 2018
+
+**Today's Progress** : Seminar time! with the team members. Todays topic was Pose Estimation and Action Recognition.
+
+**Thoughts** : I think I did better than I was worried. Though LSTM should be explained at the next seminar.
+
+**Link of Works** : [Seminar: Pose Estimation + Action Recognition](https://www.google.com/url?q=https://docs.google.com/presentation/d/1uj0K_bCNaY3nDmvH19m7PzYS9a05BERCMCtsAu9-nII/edit?usp%3Dsharing&sa=D&source=hangouts&ust=1533973489946000&usg=AFQjCNGTAWHRal6Yeyjha7macFSYVL-Wgw)
