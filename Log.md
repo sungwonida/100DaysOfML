@@ -287,3 +287,10 @@ http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
 **Thoughts** : I think I did better than I was worried. Though LSTM should be explained at the next seminar.
 
 **Link of Works** : [Seminar: Pose Estimation + Action Recognition](https://www.google.com/url?q=https://docs.google.com/presentation/d/1uj0K_bCNaY3nDmvH19m7PzYS9a05BERCMCtsAu9-nII/edit?usp%3Dsharing&sa=D&source=hangouts&ust=1533973489946000&usg=AFQjCNGTAWHRal6Yeyjha7macFSYVL-Wgw)
+
+## Day 36 : Aug 11, 2018
+
+**Today's Progress** : Scribbled RNN code in numpy for better understanding.
+
+**Thoughts** : The backprop part is slightly confusing.
+
