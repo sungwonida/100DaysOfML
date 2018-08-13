@@ -294,3 +294,12 @@ http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
 
 **Thoughts** : The backprop part is slightly confusing.
 
+## Day 37 : Aug 12, 2018
+
+**Today's Progress** : Practice 1) LSTM coding 2) Python tricks for better understanding and better self-implementations
+
+**Thoughts** : Python tricks is fun.
+
+**Link of Works** :  
+https://gist.github.com/karpathy/587454dc0146a6ae21fc
+https://dbader.org/blog/announcing-python-tricks-the-book
