@@ -303,3 +303,9 @@ http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
 **Link of Works** :  
 https://gist.github.com/karpathy/587454dc0146a6ae21fc
 https://dbader.org/blog/announcing-python-tricks-the-book
+
+## Day 38 : Aug 13, 2018
+
+**Today's Progress** : Practice on Python decorators (while reading the raw LSTM code)
+
+**Thoughts** : Python functions are first-class objects. With continuing this idea, decorators give powerful and flexible way to allow reusable building blocks. I was attracted to Python even more.
