@@ -309,3 +309,11 @@ https://dbader.org/blog/announcing-python-tricks-the-book
 **Today's Progress** : Practice on Python decorators (while reading the raw LSTM code)
 
 **Thoughts** : Python functions are first-class objects. With continuing this idea, decorators give powerful and flexible way to allow reusable building blocks. I was attracted to Python even more.
+
+## Day 39 : Aug 14, 2018
+
+**Today's Progress** : Looked into the Two-stream ConvNet written in PyTorch
+
+**Thoughts** : Thanks Jedi! (emacs package)
+
+**Link of Works** : https://github.com/jeffreyhuang1/two-stream-action-recognition
