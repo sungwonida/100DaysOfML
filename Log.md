@@ -317,3 +317,17 @@ https://dbader.org/blog/announcing-python-tricks-the-book
 **Thoughts** : Thanks Jedi! (emacs package)
 
 **Link of Works** : https://github.com/jeffreyhuang1/two-stream-action-recognition
+
+## Day 40 : Aug 15, 2018
+
+**Today's Progress** : Followed some tutorials on NLP basic
+
+**Thoughts** : I really wanna be a master on sequence models
+
+## Day 41 : Aug 16, 2018
+
+**Today's Progress** :  
+1) Bag-of-words tutorial using sklearn and Keras
+2) Word Embeddings using Gensim
+
+**Thoughts** : Jason Brownlee's crash courses are awesome. I need to follow those closely to speed up.
