@@ -339,3 +339,13 @@ https://dbader.org/blog/announcing-python-tricks-the-book
 **Thoughts** : I should copy the words of Justin into my brain (to better serve my own seminar)
 
 **Link of Works** : https://youtu.be/6niqTuYFZLQ
+
+## Day 43 : Aug 18, 2018
+
+**Today's Progress** : Got some idea on batch normalization  
+
+**Thoughts** : BN is really cool. And it sounds reasonable that Dropout is losing its position in CNN.
+
+**Link of Works** :  
+[Don't Use Dropout in Convolutional Networks](https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16?source=linkShare-d73d583291ce-1534593369)  
+[Intuit and Implement: Batch Normalization](https://towardsdatascience.com/intuit-and-implement-batch-normalization-c05480333c5b?source=linkShare-d73d583291ce-1534593323)
