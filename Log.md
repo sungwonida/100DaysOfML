@@ -331,3 +331,11 @@ https://dbader.org/blog/announcing-python-tricks-the-book
 2) Word Embeddings using Gensim
 
 **Thoughts** : Jason Brownlee's crash courses are awesome. I need to follow those closely to speed up.
+
+## Day 42 : Aug 17, 2018
+
+**Today's Progress** : Took an RNN lecture from CS231n again and again
+
+**Thoughts** : I should copy the words of Justin into my brain (to better serve my own seminar)
+
+**Link of Works** : https://youtu.be/6niqTuYFZLQ
