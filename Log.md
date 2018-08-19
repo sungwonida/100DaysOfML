@@ -349,3 +349,13 @@ https://dbader.org/blog/announcing-python-tricks-the-book
 **Link of Works** :  
 [Don't Use Dropout in Convolutional Networks](https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16?source=linkShare-d73d583291ce-1534593369)  
 [Intuit and Implement: Batch Normalization](https://towardsdatascience.com/intuit-and-implement-batch-normalization-c05480333c5b?source=linkShare-d73d583291ce-1534593323)
+
+## Day 44 : Aug 19, 2018
+
+**Today's Progress** : Watched RNN lecture(CS231n)
+
+**Thoughts** : I'll watch the video over and over again
+
+**Link of Works** :  
+https://youtu.be/yCC09vCHzF8  
+https://youtu.be/6niqTuYFZLQ
