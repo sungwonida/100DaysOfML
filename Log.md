@@ -359,3 +359,11 @@ https://dbader.org/blog/announcing-python-tricks-the-book
 **Link of Works** :  
 https://youtu.be/yCC09vCHzF8  
 https://youtu.be/6niqTuYFZLQ
+
+## Day 45 : Aug 20, 2018
+
+**Today's Progress** : Examined the LSTM code which has been written in numpy by Karpathy. (lines before bt)
+
+**Thoughts** : Those lines are better understandable when come along with cs231n. (lecture 10)
+
+**Link of Works** : https://gist.github.com/karpathy/587454dc0146a6ae21fc
