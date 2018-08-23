@@ -301,7 +301,7 @@ http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
 **Thoughts** : Python tricks is fun.
 
 **Link of Works** :  
-https://gist.github.com/karpathy/587454dc0146a6ae21fc
+https://gist.github.com/karpathy/587454dc0146a6ae21fc  
 https://dbader.org/blog/announcing-python-tricks-the-book
 
 ## Day 38 : Aug 13, 2018
@@ -367,3 +367,21 @@ https://youtu.be/6niqTuYFZLQ
 **Thoughts** : Those lines are better understandable when come along with cs231n. (lecture 10)
 
 **Link of Works** : https://gist.github.com/karpathy/587454dc0146a6ae21fc
+
+## Day 46 : Aug 21, 2018
+
+**Today's Progress** : Examined the rest of the LSTM code. (from bt)
+
+**Thoughts** : I'm happy that I could stand on the shoulders of giants like Karpathy.
+
+## Day 47 : Aug 22, 2018
+
+**Today's Progress** : I have glimpsed at attention mechanism. Plus, reminded the recurrent neural networks.
+
+**Thoughts** : I suddenly turned my attention to attention mechanism, not because did I mastered the LSTMs, but I just wanted to follow up the SOTA trand in sequence modeling. Since one of my biggest interest in ML is edge computing.
+
+**Link of Works** :  
+[The fall of RNN / LSTM](https://justread.link/u9Jv4QAcr)  
+[LSTM Networks - The Math of Intelligence (Week 8)](https://youtu.be/9zhrxE5PQgY)  
+[An Introduction to LSTMs in Tensorflow](https://youtu.be/l4X-kZjl1gs)
+
