@@ -385,3 +385,10 @@ https://youtu.be/6niqTuYFZLQ
 [LSTM Networks - The Math of Intelligence (Week 8)](https://youtu.be/9zhrxE5PQgY)  
 [An Introduction to LSTMs in Tensorflow](https://youtu.be/l4X-kZjl1gs)
 
+## Day 48 : Aug 23, 2018
+
+**Today's Progress** : Temporal Segment Network for action recognition from video
+
+**Thoughts** : Every pieces are engaging with one another, making our action recognition project feasible!
+
+**Link of Works** : https://arxiv.org/abs/1608.00859
