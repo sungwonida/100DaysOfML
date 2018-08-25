@@ -392,3 +392,19 @@ https://youtu.be/6niqTuYFZLQ
 **Thoughts** : Every pieces are engaging with one another, making our action recognition project feasible!
 
 **Link of Works** : https://arxiv.org/abs/1608.00859
+
+## Day 49 : Aug 24, 2018
+
+**Today's Progress** : Recap some of fundamentals in training that network
+
+**Thoughts** : Playing only in higher level applications easily let me to neglect the basics
+
+**Link of Works** : https://youtu.be/hd_KFJ5ktUc
+
+## Day 50 : Aug 25, 2018
+
+**Today's Progress** : Recap some of object detection models 
+
+**Thoughts** : Similar to previous day. I should enhance the basics everytime I get a chance. 
+
+**Link of Works** : https://youtu.be/GxZrEKZfW2o
