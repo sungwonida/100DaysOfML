@@ -408,3 +408,10 @@ https://youtu.be/6niqTuYFZLQ
 **Thoughts** : Similar to previous day. I should enhance the basics everytime I get a chance. 
 
 **Link of Works** : https://youtu.be/GxZrEKZfW2o
+
+## Day 51 : Aug 26, 2018
+
+**Today's Progress** : Read some parts of a paper (TSNs: Towards good practices for deep action recognition)
+
+**Thoughts** : I'll repeatedly read the papers on action recognition. Maybe one of the two(TSNs/TS LSTM) could be a baseline for our project.
+
