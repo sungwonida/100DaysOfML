@@ -415,3 +415,16 @@ https://youtu.be/6niqTuYFZLQ
 
 **Thoughts** : I'll repeatedly read the papers on action recognition. Maybe one of the two(TSNs/TS LSTM) could be a baseline for our project.
 
+## Day 52 : Aug 27, 2018
+
+**Today's Progress** : TSNs (Cont.) + watched Activity Recognition videos
+
+**Thoughts** :  
+(Things CNNs do well)  
+Image classification (solved. ILSVRC err: 2.3%)  
+Object localization in an image (maybe solved. ILSVRC err: 6.2%)  
+Activity recognition in a video (TS LSTM on UCF101: 94.3%)
+
+**Link of Works** :  
+[CDC: Convolutional-De-Convolutional Networks for Precise Temporal Action...](https://youtu.be/pe-_lvrBNzE)  
+[CVPR18: Tutorial: Part 1: Human Activity Recognition](https://youtu.be/Flm-kkCqACM)
