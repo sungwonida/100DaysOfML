@@ -428,3 +428,15 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 **Link of Works** :  
 [CDC: Convolutional-De-Convolutional Networks for Precise Temporal Action...](https://youtu.be/pe-_lvrBNzE)  
 [CVPR18: Tutorial: Part 1: Human Activity Recognition](https://youtu.be/Flm-kkCqACM)
+
+## Day 53 : Aug 28, 2018
+
+**Today's Progress** : Took some Activity Recognition videos and PyTorch MNIST tutorial
+
+**Thoughts** : Now is the time to match the implementations to the papers. For that purpose I need to get harnessed with PyTorch.
+
+**Link of Works** :  
+[Unsupervised Action Localization - ICCV 2017](https://youtu.be/MRN7K_bgerQ)  
+[VideoLSTM: Convolves, attends, and flows for action recognition](https://youtu.be/oluw16wExDY)  
+[PyTorch in 5 Minutes](https://youtu.be/nbJ-2G2GXL0)  
+[Basic MNIST Example](https://github.com/pytorch/examples/tree/master/mnist)
