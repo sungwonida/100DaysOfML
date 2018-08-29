@@ -440,3 +440,14 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 [VideoLSTM: Convolves, attends, and flows for action recognition](https://youtu.be/oluw16wExDY)  
 [PyTorch in 5 Minutes](https://youtu.be/nbJ-2G2GXL0)  
 [Basic MNIST Example](https://github.com/pytorch/examples/tree/master/mnist)
+
+## Day 54 : Aug 29, 2018
+
+**Today's Progress** : Capsule Network, Attention
+
+**Thoughts** : Let´s go Attention
+
+**Link of Works** :  
+[Capsule Networks(CapsNets) - Tutorial](https://youtu.be/pPN8d0E3900)  
+[Capsule Networks: An Improvement to Convolutional Networks](https://youtu.be/VKoLGnq15RM)  
+[Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
