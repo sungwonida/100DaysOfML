@@ -451,3 +451,11 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 [Capsule Networks(CapsNets) - Tutorial](https://youtu.be/pPN8d0E3900)  
 [Capsule Networks: An Improvement to Convolutional Networks](https://youtu.be/VKoLGnq15RM)  
 [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
+
+## Day 55 : Aug 30, 2018
+
+**Today's Progress** : Took a Cross Entropy tutorial video
+
+**Thoughts** : Looking back, I've been using cross entropy loss unconsciously, without deep understanding. From the video, Aurélien Géron explains me about cross entropy like I'm 5. I love it.
+
+**Link of Works** : [A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://youtu.be/ErfnhcEV1O8)
