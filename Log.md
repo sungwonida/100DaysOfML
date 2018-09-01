@@ -459,3 +459,11 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 **Thoughts** : Looking back, I've been using cross entropy loss unconsciously, without deep understanding. From the video, Aurélien Géron explains me about cross entropy like I'm 5. I love it.
 
 **Link of Works** : [A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://youtu.be/ErfnhcEV1O8)
+
+## Day 56 : Aug 31, 2018
+
+**Today's Progress** : Short exercise on data loading with PyTorch
+
+**Thoughts** : Good. PyTorch gives a useful coding scheme of dealing with datasets.
+
+**Link of Works** : [Data Loading and Processing Tutorial](https://github.com/pytorch/tutorials/blob/master/beginner_source/data_loading_tutorial.py)
