@@ -467,3 +467,11 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 **Thoughts** : Good. PyTorch gives a useful coding scheme of dealing with datasets.
 
 **Link of Works** : [Data Loading and Processing Tutorial](https://github.com/pytorch/tutorials/blob/master/beginner_source/data_loading_tutorial.py)
+
+## Day 57 : Sep 1, 2018
+
+**Today's Progress** : Exercise on transfer learning with PyTorch
+
+**Thoughts** : I`m getting used to PyTorch style
+
+**Link of Works** : [Transfer Learning tutorial](https://github.com/pytorch/tutorials/blob/master/beginner_source/transfer_learning_tutorial.py)
