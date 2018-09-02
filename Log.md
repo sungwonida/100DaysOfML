@@ -475,3 +475,11 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 **Thoughts** : I`m getting used to PyTorch style
 
 **Link of Works** : [Transfer Learning tutorial](https://github.com/pytorch/tutorials/blob/master/beginner_source/transfer_learning_tutorial.py)
+
+## Day 58 : Sep 2, 2018
+
+**Today's Progress** : Pytorch Tutorial (Autograd)
+
+**Thoughs** : Nice feature.. I'm more and more aware that PyTorch is suitable for researchers.
+
+** Link of Works** : [Autograd: automatic differentiation](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html)
