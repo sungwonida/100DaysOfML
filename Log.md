@@ -483,3 +483,9 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 **Thoughs** : Nice feature.. I'm more and more aware that PyTorch is suitable for researchers.
 
 ** Link of Works** : [Autograd: automatic differentiation](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html)
+
+## Day 59 : Sep 3, 2018
+
+**Today's Progress** : Pytorch Tutorial (Autograd) - revisited
+
+**Thoughs** : Yet, there are some confusing parts of the Autograd to me.
