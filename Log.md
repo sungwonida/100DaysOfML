@@ -497,3 +497,11 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 **Thoughts** : Cool. I'm getting used to PyTorch.
 
 **Link of Works** : [Neural Networks](file:///home/david/Development/pytorch/tutorials/_build/html/beginner/blitz/neural_networks_tutorial.html)
+
+## Day 61 : Sep 5, 2018
+
+**Today's Progress** : PyTorch tutorial (Training a classifier, ~ 4. Train the network)
+
+**Thoughts** : Easy and comfortable
+
+**Link of Works** : [Training a classifier](https://github.com/pytorch/tutorials/blob/master/beginner_source/blitz/cifar10_tutorial.py)
