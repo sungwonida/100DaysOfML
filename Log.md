@@ -505,3 +505,11 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 **Thoughts** : Easy and comfortable
 
 **Link of Works** : [Training a classifier](https://github.com/pytorch/tutorials/blob/master/beginner_source/blitz/cifar10_tutorial.py)
+
+## Day 62 : Sep 6, 2018
+
+**Today's Progress** : PyTorch tutorial (Training a classifier, Data Parallelism)
+
+**Thoughts** : I get a lot of things from PyTorch tutorials not only PyTorch itself but also the way of coding. I think PyTorch way of coding is more Pythonic than other frameworks.
+
+**Link of Works** : (Data Parallelism)[https://pytorch.org/tutorials/beginner/blitz/data_parallel_tutorial.html]
