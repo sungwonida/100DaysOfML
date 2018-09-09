@@ -513,3 +513,17 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 **Thoughts** : I get a lot of things from PyTorch tutorials not only PyTorch itself but also the way of coding. I think PyTorch way of coding is more Pythonic than other frameworks.
 
 **Link of Works** : (Data Parallelism)[https://pytorch.org/tutorials/beginner/blitz/data_parallel_tutorial.html]
+
+## Day 63 : Sep 7, 2018
+
+**Today's Progress** : Learning PyTorch with Examples (~ PyTorch: Defining new autograd functions)
+
+**Thoughts** : Justin Johnson is a great tutor(He is same person with CS231n´s Justin Johnson, right?). I like bottom-up approach, so I'm absorbing his teaching. 
+
+**Link of Works** : (Learning PyTorch with Examples)[https://pytorch.org/tutorials/beginner/pytorch_with_examples.html#pytorch-nn]
+
+## Day 64 : Sep 8, 2018
+
+**Today's Progress** : Learning PyTorch with Examples (TensorFlow: Static Graphs ~ PyTorch: Custom nn Modules)
+
+**Thoughts** : Really cool. Anyone landing on PyTorch territory should get this course.
