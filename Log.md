@@ -527,3 +527,10 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 **Today's Progress** : Learning PyTorch with Examples (TensorFlow: Static Graphs ~ PyTorch: Custom nn Modules)
 
 **Thoughts** : Really cool. Anyone landing on PyTorch territory should get this course.
+
+## Day 65 : Sep 9, 2018
+
+**Today's Progress** : Learning PyTorch with Examples (PyTorch: Control Flow + Weight Sharing)
+
+**Thoughts** : Easy and intuitive implementation of vanilla RNN with PyTorch
+
