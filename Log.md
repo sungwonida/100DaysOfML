@@ -534,3 +534,14 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 
 **Thoughts** : Easy and intuitive implementation of vanilla RNN with PyTorch
 
+## Day 66 : Sep 10, 2018
+
+**Today's Progress** : Review - Backpropagation, Cross Entropy
+
+**Thoughts** : Concrete understanding of these concepts are critical since it becomes prevalent of using high level ML frameworks in the fast-moving industries.
+
+**Link of Works** :  
+(cs231n:backprop notes)[http://cs231n.github.io/optimization-2/]  
+(Softmax classifier)[http://cs231n.github.io/linear-classify/#softmax]  
+(Information Theory Basics)[https://justread.link/kGSq-yF5C]  
+(A Short Introduction to Entropy, Cross-Entropy and KL-Divergence)[https://youtu.be/ErfnhcEV1O8]
