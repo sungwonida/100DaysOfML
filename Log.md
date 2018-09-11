@@ -545,3 +545,9 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 (Softmax classifier)[http://cs231n.github.io/linear-classify/#softmax]  
 (Information Theory Basics)[https://justread.link/kGSq-yF5C]  
 (A Short Introduction to Entropy, Cross-Entropy and KL-Divergence)[https://youtu.be/ErfnhcEV1O8]
+
+## Day 67 : Sep 11, 2018
+
+**Today's Progress** : Review - PyTorch tutorial (Transfer Learning)
+
+**Thoughts** : Nice to get harnessed with PyTorch helper functions
