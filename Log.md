@@ -551,3 +551,25 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 **Today's Progress** : Review - PyTorch tutorial (Transfer Learning)
 
 **Thoughts** : Nice to get harnessed with PyTorch helper functions
+
+## Day 68 : Sep 12, 2018
+
+**Today's Progress** : Tried to train Two-Stream ConvNet(PyTorch impl) on custom dataset(UCF101 small set).
+
+**Thoughts** : It's not easy to make custom small set of UCF101. Furthermore, it's not easy to feed custom dataset without problem. Someone said that data management, from gathering to engineering, takes more than 80% of data science tasks, and yes it seems very true!
+
+## Day 69 : Sep 13, 2018
+
+**Today's Progress** : Turned to more hopeful architecture, Hidden Two-Stream Convolutional Networks
+
+**Thoughts** : Just researched some. Interesting idea.
+
+**Link of Works** : (Hidden Two-Stream Convolutional Networks for Action Recognition)[http://arxiv.org/abs/1704.00389v3]
+
+## Day 70 : Sep 14, 2018
+
+**Today's Progress** : Caffe setup for Hidden Two-Stream Convolutional Networks implementation
+
+**Thoughts** : Not easy to install. But I could get over by googling. I think tensorflow<1.0 build from source was way terrible than this.
+
+**Link of Works** : (Hidden-Two-Stream)[https://github.com/bryanyzhu/Hidden-Two-Stream]
