@@ -573,3 +573,31 @@ Activity recognition in a video (TS LSTM on UCF101: 94.3%)
 **Thoughts** : Not easy to install. But I could get over by googling. I think tensorflow<1.0 build from source was way terrible than this.
 
 **Link of Works** : (Hidden-Two-Stream)[https://github.com/bryanyzhu/Hidden-Two-Stream]
+
+## Day 71 : Sep 15, 2018
+
+**Today's Progress** : Quick review of human activity recognition
+
+**Thoughts** : This is not I'm looking for. The architecture uses dataset collected from chest-mounted accelerometer other than from video. So, I have just dropped it.
+
+**Link of Works** : (A Gentle Introduction to a Standard Human Activity Recognition Problem)[https://machinelearningmastery.com/how-to-load-and-explore-a-standard-human-activity-recognition-problem/]
+
+## Day 72 : Sep 16, 2018
+
+**Today's Progress** : (nil)
+
+## Day 73 : Sep 17, 2018
+
+**Today's Progress** : (nil)
+
+## Day 74 : Sep 18, 2018
+
+**Today's Progress** : Researched AI applications in FinTech
+
+**Thoughts** : I recently started to get interested in FinTech since it is one of the field where the biggest amount of money circulates, regardless of who says anything.
+
+## Day 75 : Sep 19, 2018
+
+**Today's Progress** : Reviewed my whole ML path in special way
+
+**Thoughts** : Telling to someone about my biography in Machine Learning perspective is such a thrilling experience that make me stiffened and reclaim.
