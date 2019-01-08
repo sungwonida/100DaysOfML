@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Objective
 
-You can use the [editor on GitHub](https://github.com/sungwonida/100DaysOfML/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The objective of this project is to dedicate myself 1 hour to study machine learning everyday for 100 days.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Reminiscence 
 
-### Markdown
+This has ended up with failure due to my personal schedule (I'm making an excuse).  
+But I endeavor to get myself almost everyday to be proficient to the fundamentals of ML along with to state-of-the-art ML & AI technologies by tinkering with the toy projects in the communities and subscribing the newsletters.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sungwonida/100DaysOfML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please contact to sungwonida@gmail if there's any problem with the content or if you have any questions.  
+Thank you.
