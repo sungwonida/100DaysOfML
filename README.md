@@ -1,6 +1,6 @@
 ## Objective
 
-The objective of this project is to dedicate myself 1 hour to study machine learning everyday for 100 days.  
+The objective of this project is to dedicate myself 1 hour to study machine learning everyday for 100 days. See [Log.md](./Log.md) for the details.
 
 ### Reminiscence 
 
